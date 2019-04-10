@@ -1,2 +1,6 @@
-# Cordova-iOS
-Cordova的iOS的cocoapods支持
+
+
+使用pods命令接入到工程
+-------------------------------------------------------------
+
+    pod Cordova

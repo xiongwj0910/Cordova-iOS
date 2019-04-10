@@ -3,4 +3,4 @@
 使用pods命令接入到工程
 -------------------------------------------------------------
 
-    pod Cordova
+    pod Cordova ,:git=>'https://github.com/xiongwj0910/Cordova-iOS.git'
